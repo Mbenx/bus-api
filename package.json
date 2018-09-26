@@ -1,0 +1,15 @@
+{
+  "name": "bus-api",
+  "version": "1.0.0",
+  "description": "banckend for bus rent ",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Mbenx47",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
