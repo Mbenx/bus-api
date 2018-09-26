@@ -20,6 +20,10 @@ router.get('/', function(req, res){
   res.json({ message: "anda di home!"});
 });
 
+router.get('/welcome', function(req, res){
+  res.json({ message: "Welcome"});
+});
+
 
 
 //===== prefix api
